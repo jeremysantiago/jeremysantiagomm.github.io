@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Blog Posts"
-    url: /posts/
+    url: /docs/posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
